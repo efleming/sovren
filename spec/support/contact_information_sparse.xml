@@ -1,0 +1,10 @@
+<ContactInfo>
+  <PersonName>
+    <FormattedName>John Adams</FormattedName>
+    <GivenName>John</GivenName>
+    <FamilyName>Adams</FamilyName>
+  </PersonName>
+  <ContactMethod>
+    <InternetEmailAddress>johnadams@yamoo.com</InternetEmailAddress>
+  </ContactMethod>
+</ContactInfo>

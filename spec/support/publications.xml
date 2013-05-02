@@ -1,0 +1,60 @@
+<PublicationHistory>
+  <Article>
+    <Title>Designing Interfaces for Youth Services Information Management</Title>
+    <Name role="author">
+      <FormattedName>John A. Example</FormattedName>
+    </Name>
+    <PublicationDate>
+      <YearMonth>1996-06</YearMonth>
+    </PublicationDate>
+    <JournalOrSerialName>1996 Human-Computer Interaction Laboratory Video Reports</JournalOrSerialName>
+    <Volume>2</Volume>
+    <Issue>3</Issue>
+    <PageNumber>319-329</PageNumber>
+  </Article>
+  <Book>
+    <Title>XML in a Seashell</Title>
+    <Name role="author">
+      <FormattedName>John A. Example</FormattedName>
+    </Name>
+    <PublicationDate>
+      <YearMonth>2001-02</YearMonth>
+    </PublicationDate>
+    <Abstract>A very readable introduction to XML.</Abstract>
+    <Copyright>
+      <CopyrightDates>
+        <OriginalDate>
+          <Year>2001</Year>
+        </OriginalDate>
+      </CopyrightDates>
+      <CopyrightText>Copyright 2nd edition</CopyrightText>
+    </Copyright>
+    <Edition>2nd Edition</Edition>
+    <ISBN>0596000222</ISBN>
+    <PublisherName>O'Malley Associates</PublisherName>
+    <PublisherLocation>Garden City, NY, US</PublisherLocation>
+  </Book>
+  <ConferencePaper>
+    <Title>Trends in Employee Benefit Offerings</Title>
+    <Name role="author">
+      <FormattedName>Debra J. Cohen</FormattedName>
+    </Name>
+    <EventName>SHRM 55th Annual Conference and Exposition</EventName>
+    <ConferenceDate>
+      <AnyDate>2003-06-10</AnyDate>
+    </ConferenceDate>
+    <ConferenceLocation>Orlando, FL</ConferenceLocation>
+  </ConferencePaper>
+  <OtherPublication type="Thesis">
+    <Title>Interconnect Synthesis and Planning for High-Performance IC Designs</Title>
+    <Name role="author">
+      <FormattedName>John A. Example</FormattedName>
+    </Name>
+    <PublicationDate>
+      <Year>2000</Year>
+    </PublicationDate>
+    <Comments>Ph.D., University of California</Comments>
+    <NumberOfPages>158</NumberOfPages>
+    <PublisherLocation>Los Angeles, CA, US</PublisherLocation>
+  </OtherPublication>
+</PublicationHistory>

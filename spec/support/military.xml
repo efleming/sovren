@@ -1,0 +1,19 @@
+<MilitaryHistory>
+  <CountryServed>US</CountryServed>
+  <ServiceDetail branch="Army">
+    <RankAchieved>
+      <CurrentOrEndRank>FIRST LIEUTENANT</CurrentOrEndRank>
+    </RankAchieved>
+    <RecognitionAchieved>Purple Heart</RecognitionAchieved>
+    <DischargeStatus>Honorable</DischargeStatus>
+    <DatesOfService>
+      <StartDate>
+        <AnyDate>1966-01-01</AnyDate>
+      </StartDate>
+      <EndDate>
+        <AnyDate>1967-01-01</AnyDate>
+      </EndDate>
+    </DatesOfService>
+  </ServiceDetail>
+  <Comments>FIRST LIEUTENANT, US Army, Vietnam theatre, 1966-1967</Comments>
+</MilitaryHistory>

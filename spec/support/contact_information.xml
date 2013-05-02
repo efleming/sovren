@@ -1,0 +1,69 @@
+<ContactInfo>
+  <PersonName>
+    <FormattedName>John F. Adams, III</FormattedName>
+    <GivenName>John</GivenName>
+    <MiddleName>F.</MiddleName>
+    <FamilyName>Adams</FamilyName>
+    <Affix type="generation">III</Affix>
+    <Affix type="aristocraticTitle">Duke</Affix>
+    <Affix type="formOfAddress">Mr.</Affix>
+    <Affix type="qualification">M.D.</Affix>
+  </PersonName>
+  <ContactMethod>
+    <WhenAvailable>anytime</WhenAvailable>
+    <PostalAddress type="undefined">
+      <CountryCode>US</CountryCode>
+      <PostalCode>92075</PostalCode>
+      <Region>CA</Region>
+      <Municipality>Solana Beach</Municipality>
+      <DeliveryAddress>
+        <AddressLine>930 Via Mil Cumbres</AddressLine>
+        <AddressLine>Unit 119</AddressLine>
+      </DeliveryAddress>
+    </PostalAddress>
+  </ContactMethod>
+  <ContactMethod>
+    <Use>personal</Use>
+    <Location>onPerson</Location>
+    <WhenAvailable>anytime</WhenAvailable>
+    <Mobile>
+      <FormattedNumber>(858) 555-1001</FormattedNumber>
+    </Mobile>
+  </ContactMethod>
+  <ContactMethod>
+    <Use>personal</Use>
+    <Location>onPerson</Location>
+    <WhenAvailable>anytime</WhenAvailable>
+    <Mobile>
+      <FormattedNumber>(858) 555-1002</FormattedNumber>
+    </Mobile>
+  </ContactMethod>
+  <ContactMethod>
+    <Telephone>
+      <FormattedNumber>(858) 555-1000</FormattedNumber>
+    </Telephone>
+  </ContactMethod>
+  <ContactMethod>
+    <Telephone>
+      <FormattedNumber>(858) 555-1003</FormattedNumber>
+    </Telephone>
+  </ContactMethod>
+  <ContactMethod>
+    <WhenAvailable>anytime</WhenAvailable>
+    <Fax>
+      <FormattedNumber>(858) 555-1002</FormattedNumber>
+    </Fax>
+  </ContactMethod>
+  <ContactMethod>
+    <Use>personal</Use>
+    <Location>onPerson</Location>
+    <WhenAvailable>anytime</WhenAvailable>
+    <InternetEmailAddress>johnadams@yamoo.com</InternetEmailAddress>
+  </ContactMethod>
+  <ContactMethod>
+    <Use>businessDirect</Use>
+    <Location>home</Location>
+    <WhenAvailable>anytime</WhenAvailable>
+    <InternetWebAddress>http://www.linkedin.com/in/johnadams</InternetWebAddress>
+  </ContactMethod>
+</ContactInfo>

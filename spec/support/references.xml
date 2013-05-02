@@ -1,0 +1,36 @@
+<References>
+  <Reference>
+    <PersonName>
+      <FormattedName>Babs Smith</FormattedName>
+      <GivenName>Babs</GivenName>
+      <FamilyName>Smith</FamilyName>
+    </PersonName>
+    <PositionTitle>Manager</PositionTitle>
+    <ContactMethod>
+      <Use>business</Use>
+      <Location>office</Location>
+      <WhenAvailable>anytime</WhenAvailable>
+      <PostalAddress type="undefined">
+        <CountryCode>US</CountryCode>
+        <PostalCode>46559</PostalCode>
+        <Region>VA</Region>
+        <Municipality>Richmond</Municipality>
+        <DeliveryAddress>
+          <AddressLine>1234 Farmington Way</AddressLine>
+        </DeliveryAddress>
+      </PostalAddress>
+    </ContactMethod>
+    <ContactMethod>
+      <Use>business</Use>
+      <Location>office</Location>
+      <WhenAvailable>anytime</WhenAvailable>
+      <InternetEmailAddress>babs@somers.com</InternetEmailAddress>
+    </ContactMethod>
+    <ContactMethod>
+      <Telephone>
+        <FormattedNumber>845-876-0988</FormattedNumber>
+      </Telephone>
+    </ContactMethod>
+    <Comments>[OrgName=Somers Products, Inc]</Comments>
+  </Reference>
+</References>

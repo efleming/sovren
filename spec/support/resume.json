@@ -1,0 +1,466 @@
+{
+  "executive_summary":"Development manager with 10 years of hands-on experience, specializing in Internet marketing and data-driven web sites.",
+  "objective":"HRIS Applications development manager for a large ATS vendor or ASP in the HR space.",
+  "contact_information":{
+    "first_name":"John",
+    "middle_name":"F.",
+    "last_name":"Adams",
+    "aristocratic_title":"",
+    "form_of_address":"",
+    "generation":"III",
+    "qualification":"",
+    "address_line_1":"930 Via Mil Cumbres Unit 119",
+    "city":"Solana Beach",
+    "state":"CA",
+    "postal_code":"92075",
+    "country":"US",
+    "home_phone":"(858) 555-1000",
+    "mobile_phone":"(858) 555-1001",
+    "website":"http://www.linkedin.com/in/johnadams",
+    "email":"johnadams@yamoo.com"
+  },
+  "education_history":[
+    {
+      "school_name":"California State University",
+      "city":"Chico",
+      "state":"CA",
+      "country":"US",
+      "degree_type":"bachelors",
+      "degree_name":"B.S.",
+      "major":"Business Administration",
+      "minor":"",
+      "gpa":3.66,
+      "gpa_out_of":4.0,
+      "start_date":"1996-01-01",
+      "end_date":"1999-01-01",
+      "graduated":true
+    },
+    {
+      "school_name":"Butte College",
+      "city":null,
+      "state":null,
+      "country":null,
+      "degree_type":"associates",
+      "degree_name":"A.A.",
+      "major":"",
+      "minor":"",
+      "gpa":0.0,
+      "gpa_out_of":0.0,
+      "start_date":"1995-01-01",
+      "end_date":"1996-01-01",
+      "graduated":true
+    }
+  ],
+  "employment_history":[
+    {
+      "employer":"Technical Difference",
+      "division":null,
+      "city":"Encinitas",
+      "state":"CA",
+      "country":"US",
+      "title":"Director of Web Applications Development",
+      "description":"Technical Difference, Encinitas, CA\tOctober 2004 - Current\nDirector of Web Applications Development\n• Managed email marketing campaigns to attract new sales and retain customers.\n• Add new technology to website to manage leads, increase response time and provide pertinent information to new customers.\n• Convert current HRIS from VB to ASP to create complete web based solution.\n• Added custom encryption coding to SQL and ASP web applications.\n• Designed custom applicant tracking ASP program for large client.\n• Designed customer support application to receive requests/files from clients, divert to appropriate support staff, and track issue from open to resolve.\n• Supervised 15 employees.",
+      "start_date":"2004-10-01",
+      "current_employer":true,
+      "end_date":null
+    },
+    {
+      "employer":"Convergence Inc. LLC",
+      "division":null,
+      "city":"Del Mar",
+      "state":"CA",
+      "country":"US",
+      "title":"Senior Web Developer/DBA",
+      "description":"Convergence Inc. LLC, Del Mar, CA\tMarch 2003 - December 2004\nSenior Web Developer/DBA\n• Developed special package sales on website for the Mighty Ducks of Anaheim.\n• Managed email marketing campaigns for Mighty Ducks of Anaheim to generate interest in season passes, group sales, and special promotions.\n• Developed event registration sites for Mazda, Mercedes, Volvo, Cadillac  Mitsubishi.\n• Developed web-based email tracking system for bulk mail sends to track all consumer actions upon opening an email sent from the system.\n• Developed analytical reporting tool for clients to access results of bulk mail sends.\n• Set up/deployed bulk mail campaigns for various companies through Exact Target.\n• Consulted with clients about bulk mail results to help find their target audience.\n• Helped customers to build their email database through various bulk mail promotions.\n• Developed web-based contest applications for various seasonal marketing campaigns that included Email Marketing, Web Registration, Email Tracking, and Contest Reporting for the State of Connecticut Tourism Department.\n• Developed Meeting Planner marketing tool for customers to plan/book meetings at any of over 200 hotels in Connecticut for the Connecticut Tourism Department.\n• Primary contact for Automotive Ride  Drive Marketing Campaigns.\n• DBA SQL Server 7  2000.",
+      "start_date":"2003-03-01",
+      "current_employer":false,
+      "end_date":"2004-12-01"
+    },
+    {
+      "employer":"Avalon Digital Marketing Systems, Inc",
+      "division":null,
+      "city":null,
+      "state":null,
+      "country":null,
+      "title":"Contractor - Web Development",
+      "description":"Avalon Digital Marketing Systems, Inc.\tMay 2002 - March 2003\nContractor - Web Development\n• Designed  developed web-based gift fulfillment system for use by Mazda and their affiliates to intake consumer information from bulk mail sends, accept orders from consumers who completed their incentive program, and to report on all activity.\n• Designed  developed web-based event registration systems for Mercedes and Volvo including comprehensive reporting on system activity.\n• Primary contact for Automotive Ride  Drive Marketing Campaigns.",
+      "start_date":"2002-05-01",
+      "current_employer":false,
+      "end_date":"2003-03-01"
+    }
+  ],
+  "certifications":[
+    {
+      "name":"Watergate Master Plumber, Lic. #2445",
+      "description":"license; found in LICENSES",
+      "effective_date":null
+    },
+    {
+      "name":"Project Management Professional",
+      "description":"certification; matched to list",
+      "effective_date":null
+    },
+    {
+      "name":"Sun Secure Global Desktop (Tarantella) System Administration",
+      "description":"certification",
+      "effective_date":"2001-09-01"
+    },
+    {
+      "name":"• Watergate Master Plumber, Lic. #2445",
+      "description":"certification",
+      "effective_date":null
+    }
+  ],
+  "competencies":[
+    {
+      "name":"MARKETING",
+      "months":159,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"SALES",
+      "months":150,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"SQL",
+      "months":150,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"WEB BASED",
+      "months":137,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"CLIENTS",
+      "months":126,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"APPLICATIONS DEVELOPMENT",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"ASP",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"CODING",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"CODING",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"CODING",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"CODING",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"CUSTOMER SUPPORT",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"CUSTOMER SUPPORT",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"CUSTOMER SUPPORT",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"ENCRYPTION",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"ENCRYPTION",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"HRIS",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"HRIS",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"INCREASE",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"LEADS",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"NEW SALES",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"SALES AND",
+      "months":104,
+      "last_used_date":"2013-05-02"
+    },
+    {
+      "name":"AUTOMOTIVE",
+      "months":57,
+      "last_used_date":"2004-12-01"
+    },
+    {
+      "name":"MS SQL SERVER",
+      "months":46,
+      "last_used_date":"2004-12-01"
+    },
+    {
+      "name":"SQL SERVER",
+      "months":46,
+      "last_used_date":"2004-12-01"
+    },
+    {
+      "name":"WEB-BASED",
+      "months":33,
+      "last_used_date":"2004-12-01"
+    },
+    {
+      "name":"DEVELOPED SALES",
+      "months":24,
+      "last_used_date":"2002-04-01"
+    },
+    {
+      "name":"DATABASE",
+      "months":22,
+      "last_used_date":"2004-12-01"
+    },
+    {
+      "name":"DATABASE",
+      "months":22,
+      "last_used_date":"2004-12-01"
+    },
+    {
+      "name":"FULFILLMENT",
+      "months":11,
+      "last_used_date":"2003-03-01"
+    },
+    {
+      "name":"SUN",
+      "months":6,
+      "last_used_date":"2001-09-01"
+    },
+    {
+      "name":"SYSTEM ADMINISTRATION",
+      "months":6,
+      "last_used_date":"2001-09-01"
+    },
+    {
+      "name":"SYSTEMS ADMINISTRATION",
+      "months":6,
+      "last_used_date":"2001-09-01"
+    },
+    {
+      "name":".NET",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"DOS",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"FORENSICS",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"GPS",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"GPS",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"GPS",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"INTERNET MARKETING",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"JOURNAL",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"JOURNAL",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"MICROSOFT SQL SERVER",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"MICROSOFT VISUAL BASIC",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"MICROSOFT VISUAL BASIC .NET",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"MICROSOFT WINDOWS",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"PATENT",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"PROJECT MANAGEMENT",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"SERVER ADMINISTRATION",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"UNIX",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"VISUAL BASIC",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"VISUAL BASIC .NET",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"VISUAL BASIC 6.0",
+      "months":6,
+      "last_used_date":null
+    },
+    {
+      "name":"WINDOWS 98",
+      "months":6,
+      "last_used_date":null
+    }
+  ],
+  "achievements":[
+    {
+      "description":"Awarded Medal of Merit by the Royal Society of Forensics, 2005"
+    }
+  ],
+  "associations":[
+    {
+      "name":"Association of Retired Military Document Examiners",
+      "role":"Member"
+    }
+  ],
+  "languages":[
+    {
+      "language_code":"ps",
+      "read":true,
+      "write":true,
+      "speak":true
+    },
+    {
+      "language_code":"ur",
+      "read":true,
+      "write":true,
+      "speak":true
+    },
+    {
+      "language_code":"fr",
+      "read":true,
+      "write":true,
+      "speak":true
+    }
+  ],
+  "military_history":{
+    "country_served":"US",
+    "branch":"Army",
+    "rank_achieved":"FIRST LIEUTENANT",
+    "recognition_achieved":"",
+    "discharge_status":"",
+    "start_date":"1966-01-01",
+    "end_date":"1967-01-01"
+  },
+  "patent_history":[
+    {
+      "title":"Method and Apparatus for Removing Corn Kernels From Dentures",
+      "description":"George Doam and Neil Griffin, inventors, \"Method and Apparatus for Removing Corn Kernels From Dentures\", Patent 1,064,098.",
+      "inventor_name":"George Doam and Neil Griffin",
+      "patent_id":"1064098"
+    }
+  ],
+  "publication_history":[
+    {
+      "type":"Book",
+      "title":"The Way Home: How GPS Restored My Profits and Saved My Business Life\", published in the American Journal of the Lost And Clueless, Number 4. May 3,",
+      "role":null,
+      "publication_date":null,
+      "journal_or_serial_name":"",
+      "volume":"",
+      "issue":"",
+      "page_number":"",
+      "abstract":"",
+      "copyright_date":null,
+      "copyright_text":null,
+      "edition":"",
+      "isbn":"",
+      "publisher_name":"How GPS Restored My Profits and Saved My Business Life",
+      "publisher_location":"",
+      "event_name":"",
+      "conference_date":null,
+      "conference_location":"",
+      "comments":"",
+      "number_of_pages":0
+    }
+  ],
+  "references":[
+    {
+      "name":"Babs Smith",
+      "title":"Manager",
+      "email":"babs@somers.com",
+      "phone_number":"845-876-0988"
+    }
+  ]
+}

@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28" xml:lang="en">
+  <ResumeId>
+    <IdValue/>
+  </ResumeId>
+  <StructuredXMLResume>
+    <ContactInfo>
+      <PersonName>
+        <FormattedName>John F. Adams, III</FormattedName>
+        <GivenName>John</GivenName>
+        <MiddleName>F.</MiddleName>
+        <FamilyName>Adams</FamilyName>
+        <Affix type="generation">III</Affix>
+      </PersonName>
+      <ContactMethod>
+        <WhenAvailable>anytime</WhenAvailable>
+        <PostalAddress type="undefined">
+          <CountryCode>US</CountryCode>
+          <PostalCode>92075</PostalCode>
+          <Region>CA</Region>
+          <Municipality>Solana Beach</Municipality>
+          <DeliveryAddress>
+            <AddressLine>930 Via Mil Cumbres Unit 119</AddressLine>
+          </DeliveryAddress>
+        </PostalAddress>
+      </ContactMethod>
+      <ContactMethod>
+        <Use>personal</Use>
+        <Location>onPerson</Location>
+        <WhenAvailable>anytime</WhenAvailable>
+        <Mobile>
+          <FormattedNumber>(858) 555-1001</FormattedNumber>
+        </Mobile>
+      </ContactMethod>
+      <ContactMethod>
+        <Telephone>
+          <FormattedNumber>(858) 555-1000</FormattedNumber>
+        </Telephone>
+      </ContactMethod>
+      <ContactMethod>
+        <WhenAvailable>anytime</WhenAvailable>
+        <Fax>
+          <FormattedNumber>(858) 555-1002</FormattedNumber>
+        </Fax>
+      </ContactMethod>
+      <ContactMethod>
+        <Use>personal</Use>
+        <Location>onPerson</Location>
+        <WhenAvailable>anytime</WhenAvailable>
+        <InternetEmailAddress>johnadams@yamoo.com</InternetEmailAddress>
+      </ContactMethod>
+      <ContactMethod>
+        <Use>businessDirect</Use>
+        <Location>home</Location>
+        <WhenAvailable>anytime</WhenAvailable>
+        <InternetWebAddress>http://www.linkedin.com/in/johnadams</InternetWebAddress>
+      </ContactMethod>
+    </ContactInfo>
+    <ExecutiveSummary>Development manager with 10 years of hands-on experience, specializing in Internet marketing and data-driven web sites.</ExecutiveSummary>
+    <Objective>HRIS Applications development manager for a large ATS vendor or ASP in the HR space.</Objective>
+    <EmploymentHistory>
+      <EmployerOrg>
+        <EmployerOrgName>Technical Difference</EmployerOrgName>
+        <PositionHistory positionType="directHire" currentEmployer="true">
+          <Title>Director of Web Applications Development</Title>
+          <OrgName>
+            <OrganizationName>Technical Difference</OrganizationName>
+          </OrgName>
+          <OrgInfo>
+            <PositionLocation type="undefined">
+              <CountryCode>US</CountryCode>
+              <Region>CA</Region>
+              <Municipality>Encinitas</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Technical Difference, Encinitas, CA	October 2004 - Current
+Director of Web Applications Development
+• Managed email marketing campaigns to attract new sales and retain customers.
+• Add new technology to website to manage leads, increase response time and provide pertinent information to new customers.
+• Convert current HRIS from VB to ASP to create complete web based solution.
+• Added custom encryption coding to SQL and ASP web applications.
+• Designed custom applicant tracking ASP program for large client.
+• Designed customer support application to receive requests/files from clients, divert to appropriate support staff, and track issue from open to resolve.
+• Supervised 15 employees.</Description>
+          <StartDate>
+            <AnyDate>2004-10-01</AnyDate>
+          </StartDate>
+          <EndDate>
+            <AnyDate>2013-04-29</AnyDate>
+          </EndDate>
+          <JobCategory>
+            <TaxonomyName>DEPARTMENT</TaxonomyName>
+            <CategoryCode>196</CategoryCode>
+          </JobCategory>
+          <JobCategory>
+            <TaxonomyName>JOBCATEGORY</TaxonomyName>
+            <CategoryCode>Executive (VP, Dept Head)</CategoryCode>
+          </JobCategory>
+          <UserArea>
+            <sov:PositionHistoryUserArea>
+              <sov:Id>POS-1</sov:Id>
+              <sov:CompanyNameProbability>27</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>34</sov:PositionTitleProbability>
+              <sov:OffsetOfFarthestDataFound>98</sov:OffsetOfFarthestDataFound>
+              <sov:NumberOfEmployeesSupervised>15</sov:NumberOfEmployeesSupervised>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      <EmployerOrg>
+        <EmployerOrgName>Convergence Inc. LLC</EmployerOrgName>
+        <PositionHistory positionType="directHire">
+          <Title>Senior Web Developer/DBA</Title>
+          <OrgName>
+            <OrganizationName>Convergence Inc. LLC</OrganizationName>
+          </OrgName>
+          <OrgInfo>
+            <PositionLocation type="undefined">
+              <CountryCode>US</CountryCode>
+              <Region>CA</Region>
+              <Municipality>Del Mar</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Convergence Inc. LLC, Del Mar, CA	March 2003 - December 2004
+Senior Web Developer/DBA
+• Developed special package sales on website for the Mighty Ducks of Anaheim.
+• Managed email marketing campaigns for Mighty Ducks of Anaheim to generate interest in season passes, group sales, and special promotions.
+• Developed event registration sites for Mazda, Mercedes, Volvo, Cadillac  Mitsubishi.
+• Developed web-based email tracking system for bulk mail sends to track all consumer actions upon opening an email sent from the system.
+• Developed analytical reporting tool for clients to access results of bulk mail sends.
+• Set up/deployed bulk mail campaigns for various companies through Exact Target.
+• Consulted with clients about bulk mail results to help find their target audience.
+• Helped customers to build their email database through various bulk mail promotions.
+• Developed web-based contest applications for various seasonal marketing campaigns that included Email Marketing, Web Registration, Email Tracking, and Contest Reporting for the State of Connecticut Tourism Department.
+• Developed Meeting Planner marketing tool for customers to plan/book meetings at any of over 200 hotels in Connecticut for the Connecticut Tourism Department.
+• Primary contact for Automotive Ride  Drive Marketing Campaigns.
+• DBA SQL Server 7  2000.</Description>
+          <StartDate>
+            <AnyDate>2003-03-01</AnyDate>
+          </StartDate>
+          <EndDate>
+            <AnyDate>2004-12-01</AnyDate>
+          </EndDate>
+          <JobCategory>
+            <TaxonomyName>DEPARTMENT</TaxonomyName>
+            <CategoryCode>193</CategoryCode>
+          </JobCategory>
+          <JobCategory>
+            <TaxonomyName>JOBCATEGORY</TaxonomyName>
+            <CategoryCode>Experienced (non-manager)</CategoryCode>
+          </JobCategory>
+          <UserArea>
+            <sov:PositionHistoryUserArea>
+              <sov:Id>POS-2</sov:Id>
+              <sov:CompanyNameProbability>28</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>28</sov:PositionTitleProbability>
+              <sov:OffsetOfFarthestDataFound>84</sov:OffsetOfFarthestDataFound>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      <EmployerOrg>
+        <EmployerOrgName>Avalon Digital Marketing Systems, Inc</EmployerOrgName>
+        <PositionHistory positionType="contract">
+          <Title>Contractor - Web Development</Title>
+          <OrgName>
+            <OrganizationName>Avalon Digital Marketing Systems, Inc</OrganizationName>
+          </OrgName>
+          <Description>Avalon Digital Marketing Systems, Inc.	May 2002 - March 2003
+Contractor - Web Development
+• Designed  developed web-based gift fulfillment system for use by Mazda and their affiliates to intake consumer information from bulk mail sends, accept orders from consumers who completed their incentive program, and to report on all activity.
+• Designed  developed web-based event registration systems for Mercedes and Volvo including comprehensive reporting on system activity.
+• Primary contact for Automotive Ride  Drive Marketing Campaigns.</Description>
+          <StartDate>
+            <AnyDate>2002-05-01</AnyDate>
+          </StartDate>
+          <EndDate>
+            <AnyDate>2003-03-01</AnyDate>
+          </EndDate>
+          <JobCategory>
+            <TaxonomyName>DEPARTMENT</TaxonomyName>
+            <CategoryCode>460</CategoryCode>
+          </JobCategory>
+          <JobCategory>
+            <TaxonomyName>JOBCATEGORY</TaxonomyName>
+            <CategoryCode>Experienced (non-manager)</CategoryCode>
+          </JobCategory>
+          <UserArea>
+            <sov:PositionHistoryUserArea>
+              <sov:Id>POS-3</sov:Id>
+              <sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>22</sov:PositionTitleProbability>
+              <sov:OffsetOfFarthestDataFound>88</sov:OffsetOfFarthestDataFound>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      <EmployerOrg>
+        <EmployerOrgName>Avalon Digital Marketing Systems, Inc</EmployerOrgName>
+        <PositionHistory positionType="directHire">
+          <Title>Web Developer/Junior DBA</Title>
+          <OrgName>
+            <OrganizationName>European Division</OrganizationName>
+          </OrgName>
+          <Description>Avalon Digital Marketing Systems, Inc. (European Division)	May 2000 - April 2002
+Web Developer/Junior DBA
+• Designed and developed reporting system for use by 200+ customers to retrieve analytical analysis of their bulk mail campaigns.
+• Designed  developed sales reporting tool to analyze and present information about industry and client specific productivity of email marketing campaigns.
+• Engineered various email campaigns to provide comprehensive tracking.
+• Primary contact for Automotive Ride  Drive Marketing Campaigns.
+• Designed  developed time keeping/project tracking system for use by all employees.
+• Junior DBA SQL Server 7/2000.
+
+Technical:</Description>
+          <StartDate>
+            <AnyDate>2000-05-01</AnyDate>
+          </StartDate>
+          <EndDate>
+            <AnyDate>2002-04-01</AnyDate>
+          </EndDate>
+          <JobCategory>
+            <TaxonomyName>DEPARTMENT</TaxonomyName>
+            <CategoryCode>193</CategoryCode>
+          </JobCategory>
+          <JobCategory>
+            <TaxonomyName>JOBCATEGORY</TaxonomyName>
+            <CategoryCode>Entry Level</CategoryCode>
+          </JobCategory>
+          <UserArea>
+            <sov:PositionHistoryUserArea>
+              <sov:Id>POS-4</sov:Id>
+              <sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>22</sov:PositionTitleProbability>
+              <sov:OffsetOfFarthestDataFound>104</sov:OffsetOfFarthestDataFound>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+    </EmploymentHistory>
+    <EducationHistory>
+      <SchoolOrInstitution schoolType="university">
+        <School>
+          <SchoolName>California State University</SchoolName>
+        </School>
+        <PostalAddress type="undefined">
+          <CountryCode>US</CountryCode>
+          <Region>CA</Region>
+          <Municipality>Chico</Municipality>
+        </PostalAddress>
+        <Degree degreeType="bachelors">
+          <DegreeName>B.S.</DegreeName>
+          <DegreeDate>
+            <AnyDate>1999-01-01</AnyDate>
+          </DegreeDate>
+          <DegreeMajor>
+            <Name>Business Administration</Name>
+          </DegreeMajor>
+          <DegreeMinor>
+            <Name>American History</Name>
+          </DegreeMinor>
+          <DegreeMeasure>
+            <EducationalMeasure>
+              <MeasureSystem>GPA</MeasureSystem>
+              <MeasureValue>
+                <StringValue>3.66</StringValue>
+              </MeasureValue>
+              <LowestPossibleValue>
+                <StringValue>0</StringValue>
+              </LowestPossibleValue>
+              <HighestPossibleValue>
+                <StringValue>4.0</StringValue>
+              </HighestPossibleValue>
+            </EducationalMeasure>
+          </DegreeMeasure>
+          <DatesOfAttendance>
+            <StartDate>
+              <AnyDate>1996-01-01</AnyDate>
+            </StartDate>
+            <EndDate>
+              <AnyDate>1999-01-01</AnyDate>
+            </EndDate>
+          </DatesOfAttendance>
+          <Comments>California State University, Chico, CA	1996 - 1999
+B.S. Business Administration
+MINOR: American History
+GPA: 3.66/4.0</Comments>
+          <UserArea>
+            <sov:DegreeUserArea>
+              <sov:Id>DEG-1</sov:Id>
+              <sov:NormalizedGPA>0.915</sov:NormalizedGPA>
+            </sov:DegreeUserArea>
+          </UserArea>
+        </Degree>
+      </SchoolOrInstitution>
+      <SchoolOrInstitution schoolType="college">
+        <School>
+          <SchoolName>Butte College</SchoolName>
+        </School>
+        <Degree degreeType="associates">
+          <DegreeName>A.A.</DegreeName>
+          <DegreeDate>
+            <AnyDate>1996-01-01</AnyDate>
+          </DegreeDate>
+          <DatesOfAttendance>
+            <StartDate>
+              <AnyDate>1995-01-01</AnyDate>
+            </StartDate>
+            <EndDate>
+              <AnyDate>1996-01-01</AnyDate>
+            </EndDate>
+          </DatesOfAttendance>
+          <Comments>Butte College, A.A.	1995 - 1996</Comments>
+          <UserArea>
+            <sov:DegreeUserArea>
+              <sov:Id>DEG-2</sov:Id>
+            </sov:DegreeUserArea>
+          </UserArea>
+        </Degree>
+      </SchoolOrInstitution>
+    </EducationHistory>
+    <LicensesAndCertifications>
+      <LicenseOrCertification>
+        <Name>Watergate Master Plumber, Lic. #2445</Name>
+        <Description>license; found in LICENSES</Description>
+      </LicenseOrCertification>
+      <LicenseOrCertification>
+        <Name>Project Management Professional</Name>
+        <Description>certification; matched to list</Description>
+      </LicenseOrCertification>
+      <LicenseOrCertification>
+        <Name>Sun Secure Global Desktop (Tarantella) System Administration</Name>
+        <Description>certification</Description>
+        <EffectiveDate>
+          <FirstIssuedDate>
+            <AnyDate>2001-09-01</AnyDate>
+          </FirstIssuedDate>
+        </EffectiveDate>
+      </LicenseOrCertification>
+      <LicenseOrCertification>
+        <Name>• Watergate Master Plumber, Lic. #2445</Name>
+        <Description>certification</Description>
+      </LicenseOrCertification>
+    </LicensesAndCertifications>
+    <Qualifications>
+      <QualificationSummary/>
+      <Competency name="MARKETING">
+        <CompetencyId id="021241"/>
+        <TaxonomyId id="249" idOwner="14" description="Sovren"/>
+        <CompetencyEvidence name="MARKETING" typeDescription="Found in SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3; POS-4" typeId="021241" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">158</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="SALES">
+        <CompetencyId id="007359"/>
+        <TaxonomyId id="105" idOwner="20" description="Sovren"/>
+        <CompetencyEvidence name="SALES" typeDescription="Found in WORK HISTORY; POS-1; POS-2; POS-4" typeId="007359" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">149</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="SQL">
+        <CompetencyId id="008481"/>
+        <TaxonomyId id="193" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="SQL" typeDescription="Found in TRAINING; WORK HISTORY; POS-1; POS-2; POS-4" typeId="008481" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">149</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="WEB BASED">
+        <CompetencyId id="024402"/>
+        <TaxonomyId id="196" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="WEB BASED" typeDescription="Found in WORK HISTORY; POS-1; POS-2; POS-3" typeId="024402" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">136</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="CLIENTS">
+        <CompetencyId id="030017"/>
+        <TaxonomyId id="105" idOwner="20" description="Sovren"/>
+        <CompetencyEvidence name="CLIENTS" typeDescription="Found in WORK HISTORY; POS-1; POS-2" typeId="030017" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">125</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="APPLICATIONS DEVELOPMENT">
+        <CompetencyId id="021803"/>
+        <TaxonomyId id="204" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="APPLICATIONS DEVELOPMENT" typeDescription="Found in WORK HISTORY; POS-1" typeId="021803" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="ASP">
+        <CompetencyId id="004324"/>
+        <TaxonomyId id="196" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="ASP" typeDescription="Found in WORK HISTORY; POS-1" typeId="004324" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="CODING">
+        <CompetencyId id="013740"/>
+        <TaxonomyId id="412" idOwner="19" description="Sovren"/>
+        <CompetencyEvidence name="CODING" typeDescription="Found in WORK HISTORY; POS-1" typeId="013740" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="CODING">
+        <CompetencyId id="013742"/>
+        <TaxonomyId id="270" idOwner="28" description="Sovren"/>
+        <CompetencyEvidence name="CODING" typeDescription="Found in WORK HISTORY; POS-1" typeId="013742" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="CODING">
+        <CompetencyId id="023716"/>
+        <TaxonomyId id="111" idOwner="1" description="Sovren"/>
+        <CompetencyEvidence name="CODING" typeDescription="Found in WORK HISTORY; POS-1" typeId="023716" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="CODING">
+        <CompetencyId id="023717"/>
+        <TaxonomyId id="421" idOwner="99" description="Sovren"/>
+        <CompetencyEvidence name="CODING" typeDescription="Found in WORK HISTORY; POS-1" typeId="023717" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="CUSTOMER SUPPORT">
+        <CompetencyId id="023486"/>
+        <TaxonomyId id="113" idOwner="1" description="Sovren"/>
+        <CompetencyEvidence name="CUSTOMER SUPPORT" typeDescription="Found in WORK HISTORY; POS-1" typeId="023486" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="CUSTOMER SUPPORT">
+        <CompetencyId id="023487"/>
+        <TaxonomyId id="194" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="CUSTOMER SUPPORT" typeDescription="Found in WORK HISTORY; POS-1" typeId="023487" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="CUSTOMER SUPPORT">
+        <CompetencyId id="023488"/>
+        <TaxonomyId id="130" idOwner="46" description="Sovren"/>
+        <CompetencyEvidence name="CUSTOMER SUPPORT" typeDescription="Found in WORK HISTORY; POS-1" typeId="023488" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="ENCRYPTION">
+        <CompetencyId id="026706"/>
+        <TaxonomyId id="338" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="ENCRYPTION" typeDescription="Found in WORK HISTORY; POS-1" typeId="026706" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="ENCRYPTION">
+        <CompetencyId id="026707"/>
+        <TaxonomyId id="144" idOwner="5" description="Sovren"/>
+        <CompetencyEvidence name="ENCRYPTION" typeDescription="Found in WORK HISTORY; POS-1" typeId="026707" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="HRIS">
+        <CompetencyId id="027117"/>
+        <TaxonomyId id="195" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="HRIS" typeDescription="Found in WORK HISTORY; POS-1" typeId="027117" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="HRIS">
+        <CompetencyId id="027118"/>
+        <TaxonomyId id="259" idOwner="9" description="Sovren"/>
+        <CompetencyEvidence name="HRIS" typeDescription="Found in WORK HISTORY; POS-1" typeId="027118" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="INCREASE">
+        <CompetencyId id="030007"/>
+        <TaxonomyId id="105" idOwner="20" description="Sovren"/>
+        <CompetencyEvidence name="INCREASE" typeDescription="Found in WORK HISTORY; POS-1" typeId="030007" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="LEADS">
+        <CompetencyId id="030009"/>
+        <TaxonomyId id="105" idOwner="20" description="Sovren"/>
+        <CompetencyEvidence name="LEADS" typeDescription="Found in WORK HISTORY; POS-1" typeId="030009" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="NEW SALES">
+        <CompetencyId id="030543"/>
+        <TaxonomyId id="105" idOwner="20" description="Sovren"/>
+        <CompetencyEvidence name="NEW SALES" typeDescription="Found in WORK HISTORY; POS-1" typeId="030543" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="SALES AND">
+        <CompetencyId id="030004"/>
+        <TaxonomyId id="105" idOwner="20" description="Sovren"/>
+        <CompetencyEvidence name="SALES AND" typeDescription="Found in WORK HISTORY; POS-1" typeId="030004" lastUsed="2013-04-29">
+          <NumericValue description="Total Months">103</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="AUTOMOTIVE">
+        <CompetencyId id="022139"/>
+        <TaxonomyId id="307" idOwner="5" description="Sovren"/>
+        <CompetencyEvidence name="AUTOMOTIVE" typeDescription="Found in WORK HISTORY; POS-2; POS-3; POS-4" typeId="022139" lastUsed="2004-12-01">
+          <NumericValue description="Total Months">57</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="MS SQL SERVER">
+        <CompetencyId id="023733"/>
+        <TaxonomyId id="193" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="MS SQL SERVER" typeDescription="Found in TRAINING; WORK HISTORY; POS-2; POS-4" typeId="023733" lastUsed="2004-12-01">
+          <NumericValue description="Total Months">46</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="SQL SERVER">
+        <CompetencyId id="008483" idOwner="023733"/>
+        <TaxonomyId id="193" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="SQL SERVER" typeDescription="Found in TRAINING; WORK HISTORY; POS-2; POS-4" typeId="008483" lastUsed="2004-12-01">
+          <NumericValue description="Total Months">46</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="WEB-BASED">
+        <CompetencyId id="02440201" idOwner="024402"/>
+        <TaxonomyId id="196" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="WEB-BASED" typeDescription="Found in WORK HISTORY; POS-2; POS-3" typeId="02440201" lastUsed="2004-12-01">
+          <NumericValue description="Total Months">33</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="DEVELOPED SALES">
+        <CompetencyId id="030380"/>
+        <TaxonomyId id="105" idOwner="20" description="Sovren"/>
+        <CompetencyEvidence name="DEVELOPED SALES" typeDescription="Found in WORK HISTORY; POS-4" typeId="030380" lastUsed="2002-04-01">
+          <NumericValue description="Total Months">24</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="DATABASE">
+        <CompetencyId id="015022"/>
+        <TaxonomyId id="228" idOwner="0" description="Sovren"/>
+        <CompetencyEvidence name="DATABASE" typeDescription="Found in WORK HISTORY; POS-2" typeId="015022" lastUsed="2004-12-01">
+          <NumericValue description="Total Months">22</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="DATABASE">
+        <CompetencyId id="022486"/>
+        <TaxonomyId id="201" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="DATABASE" typeDescription="Found in WORK HISTORY; POS-2" typeId="022486" lastUsed="2004-12-01">
+          <NumericValue description="Total Months">22</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="FULFILLMENT">
+        <CompetencyId id="018024"/>
+        <TaxonomyId id="460" idOwner="97" description="Sovren"/>
+        <CompetencyEvidence name="FULFILLMENT" typeDescription="Found in WORK HISTORY; POS-3" typeId="018024" lastUsed="2003-03-01">
+          <NumericValue description="Total Months">11</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="SUN">
+        <CompetencyId id="008895"/>
+        <TaxonomyId id="203" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="SUN" typeDescription="Found in CERTIFICATIONS; LICENSES" typeId="008895" lastUsed="2001-09-01">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="SYSTEM ADMINISTRATION">
+        <CompetencyId id="009077" idOwner="009105"/>
+        <TaxonomyId id="198" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="SYSTEM ADMINISTRATION" typeDescription="Found in CERTIFICATIONS; LICENSES" typeId="009077" lastUsed="2001-09-01">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="SYSTEMS ADMINISTRATION">
+        <CompetencyId id="009105"/>
+        <TaxonomyId id="198" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="SYSTEMS ADMINISTRATION" typeDescription="Found in CERTIFICATIONS; LICENSES" typeId="009105" lastUsed="2001-09-01">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name=".NET">
+        <CompetencyId id="023039"/>
+        <TaxonomyId id="204" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name=".NET" typeDescription="Found in TRAINING" typeId="023039">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="FORENSICS">
+        <CompetencyId id="017875"/>
+        <TaxonomyId id="376" idOwner="15" description="Sovren"/>
+        <CompetencyEvidence name="FORENSICS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="017875">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="GPS">
+        <CompetencyId id="018529"/>
+        <TaxonomyId id="307" idOwner="5" description="Sovren"/>
+        <CompetencyEvidence name="GPS" typeDescription="Found in OTHER_PUBLICATIONS" typeId="018529">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="GPS">
+        <CompetencyId id="018530"/>
+        <TaxonomyId id="144" idOwner="5" description="Sovren"/>
+        <CompetencyEvidence name="GPS" typeDescription="Found in OTHER_PUBLICATIONS" typeId="018530">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="GPS">
+        <CompetencyId id="018531"/>
+        <TaxonomyId id="298" idOwner="5" description="Sovren"/>
+        <CompetencyEvidence name="GPS" typeDescription="Found in OTHER_PUBLICATIONS" typeId="018531">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="INTERNET MARKETING">
+        <CompetencyId id="020053"/>
+        <TaxonomyId id="249" idOwner="14" description="Sovren"/>
+        <CompetencyEvidence name="INTERNET MARKETING" typeDescription="Found in SUMMARY" typeId="020053">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="JOURNAL">
+        <CompetencyId id="026929"/>
+        <TaxonomyId id="944" idOwner="32" description="Sovren"/>
+        <CompetencyEvidence name="JOURNAL" typeDescription="Found in OTHER_PUBLICATIONS" typeId="026929">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="JOURNAL">
+        <CompetencyId id="026930"/>
+        <TaxonomyId id="960" idOwner="32" description="Sovren"/>
+        <CompetencyEvidence name="JOURNAL" typeDescription="Found in OTHER_PUBLICATIONS" typeId="026930">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="MICROSOFT SQL SERVER">
+        <CompetencyId id="022023" idOwner="023733"/>
+        <TaxonomyId id="193" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="MICROSOFT SQL SERVER" typeDescription="Found in TRAINING" typeId="022023">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="MICROSOFT VISUAL BASIC">
+        <CompetencyId id="022042" idOwner="022210"/>
+        <TaxonomyId id="204" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="MICROSOFT VISUAL BASIC" typeDescription="Found in TRAINING" typeId="022042">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="MICROSOFT VISUAL BASIC .NET">
+        <CompetencyId id="022043" idOwner="023284"/>
+        <TaxonomyId id="204" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="MICROSOFT VISUAL BASIC .NET" typeDescription="Found in TRAINING" typeId="022043">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="PATENT">
+        <CompetencyId id="200094"/>
+        <TaxonomyId id="395" idOwner="12" description="Sovren"/>
+        <CompetencyEvidence name="PATENT" typeDescription="Found in PATENTS" typeId="200094">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="PROJECT MANAGEMENT">
+        <CompetencyId id="0216662"/>
+        <TaxonomyId id="199" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="PROJECT MANAGEMENT" typeDescription="Found in CERTIFICATIONS; TRAINING" typeId="0216662">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="SERVER ADMINISTRATION">
+        <CompetencyId id="007798"/>
+        <TaxonomyId id="349" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="SERVER ADMINISTRATION" typeDescription="Found in TRAINING" typeId="007798">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="VISUAL BASIC">
+        <CompetencyId id="022210"/>
+        <TaxonomyId id="204" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="VISUAL BASIC" typeDescription="Found in TRAINING" typeId="022210">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="VISUAL BASIC .NET">
+        <CompetencyId id="010595" idOwner="023284"/>
+        <TaxonomyId id="204" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="VISUAL BASIC .NET" typeDescription="Found in TRAINING" typeId="010595">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+      <Competency name="VISUAL BASIC 6.0">
+        <CompetencyId id="023284"/>
+        <TaxonomyId id="204" idOwner="10" description="Sovren"/>
+        <CompetencyEvidence name="VISUAL BASIC 6.0" typeDescription="Found in TRAINING" typeId="023284">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+      </Competency>
+    </Qualifications>
+    <Languages>
+      <Language>
+        <LanguageCode>ps</LanguageCode>
+        <Read>true</Read>
+        <Write>true</Write>
+        <Speak>true</Speak>
+        <Comments>Fluent in Pashto, Urdu and</Comments>
+      </Language>
+      <Language>
+        <LanguageCode>ur</LanguageCode>
+        <Read>true</Read>
+        <Write>true</Write>
+        <Speak>true</Speak>
+        <Comments>Fluent in Pashto, Urdu and French.</Comments>
+      </Language>
+      <Language>
+        <LanguageCode>fr</LanguageCode>
+        <Read>true</Read>
+        <Write>true</Write>
+        <Speak>true</Speak>
+        <Comments>Pashto, Urdu and French.</Comments>
+      </Language>
+    </Languages>
+    <Achievements>
+      <Achievement>
+        <Description>Awarded Medal of Merit by the Royal Society of Forensics, 2005</Description>
+      </Achievement>
+    </Achievements>
+    <Associations>
+      <Association>
+        <Name>Association of Retired Military Document Examiners</Name>
+        <Role>
+          <Name>Member</Name>
+        </Role>
+      </Association>
+    </Associations>
+    <References>
+      <Reference>
+        <PersonName>
+          <FormattedName>Babs Smith</FormattedName>
+          <GivenName>Babs</GivenName>
+          <FamilyName>Smith</FamilyName>
+        </PersonName>
+        <PositionTitle>Manager</PositionTitle>
+        <ContactMethod>
+          <Use>business</Use>
+          <Location>office</Location>
+          <WhenAvailable>anytime</WhenAvailable>
+          <PostalAddress type="undefined">
+            <CountryCode>US</CountryCode>
+            <PostalCode>46559</PostalCode>
+            <Region>VA</Region>
+            <Municipality>Richmond</Municipality>
+            <DeliveryAddress>
+              <AddressLine>1234 Farmington Way</AddressLine>
+            </DeliveryAddress>
+          </PostalAddress>
+        </ContactMethod>
+        <ContactMethod>
+          <Use>business</Use>
+          <Location>office</Location>
+          <WhenAvailable>anytime</WhenAvailable>
+          <InternetEmailAddress>babs@somers.com</InternetEmailAddress>
+        </ContactMethod>
+        <ContactMethod>
+          <Telephone>
+            <FormattedNumber>845-876-0988</FormattedNumber>
+          </Telephone>
+        </ContactMethod>
+        <Comments>[OrgName=Somers Products, Inc]</Comments>
+      </Reference>
+    </References>
+    <RevisionDate>2013-04-29</RevisionDate>
+  </StructuredXMLResume>
+  <NonXMLResume>
+    <TextResume>Dear Sir or Madam,
+
+I am very interested in the Director of Development position that you posted. I am eager to move to New York. I have extensive hands-on experience with the technologies your staff is using and I have been managing a similar size staff for the past 5 years.
+
+Sincerely,
+
+John
+
+
+RESUME
+
+John F. Adams III
+
+930 Via Mil Cumbres Unit 119, Solana Beach, CA 92075
+johnadams@yamoo.com
+(858) 555-1000
+(858) 555-1001 cell
+(858) 555-1002 fax
+http://www.linkedin.com/in/johnadams
+
+
+Summary: Development manager with 10 years of hands-on experience, specializing in Internet marketing and data-driven web sites.
+
+Objective: HRIS Applications development manager for a large ATS vendor or ASP in the HR space.
+
+Experience: Technical Difference, Encinitas, CA	October 2004 - Current
+Director of Web Applications Development
+• Managed email marketing campaigns to attract new sales and retain customers.
+• Add new technology to website to manage leads, increase response time and provide pertinent information to new customers.
+• Convert current HRIS from VB to ASP to create complete web based solution.
+• Added custom encryption coding to SQL and ASP web applications.
+• Designed custom applicant tracking ASP program for large client.
+• Designed customer support application to receive requests/files from clients, divert to appropriate support staff, and track issue from open to resolve.
+• Supervised 15 employees.
+
+Convergence Inc. LLC, Del Mar, CA	March 2003 - December 2004
+Senior Web Developer/DBA
+• Developed special package sales on website for the Mighty Ducks of Anaheim.
+• Managed email marketing campaigns for Mighty Ducks of Anaheim to generate interest in season passes, group sales, and special promotions.
+• Developed event registration sites for Mazda, Mercedes, Volvo, Cadillac  Mitsubishi.
+• Developed web-based email tracking system for bulk mail sends to track all consumer actions upon opening an email sent from the system.
+• Developed analytical reporting tool for clients to access results of bulk mail sends.
+• Set up/deployed bulk mail campaigns for various companies through Exact Target.
+• Consulted with clients about bulk mail results to help find their target audience.
+• Helped customers to build their email database through various bulk mail promotions.
+• Developed web-based contest applications for various seasonal marketing campaigns that included Email Marketing, Web Registration, Email Tracking, and Contest Reporting for the State of Connecticut Tourism Department.
+• Developed Meeting Planner marketing tool for customers to plan/book meetings at any of over 200 hotels in Connecticut for the Connecticut Tourism Department.
+• Primary contact for Automotive Ride  Drive Marketing Campaigns.
+• DBA SQL Server 7  2000.
+
+Avalon Digital Marketing Systems, Inc.	May 2002 - March 2003
+Contractor - Web Development
+• Designed  developed web-based gift fulfillment system for use by Mazda and their affiliates to intake consumer information from bulk mail sends, accept orders from consumers who completed their incentive program, and to report on all activity.
+• Designed  developed web-based event registration systems for Mercedes and Volvo including comprehensive reporting on system activity.
+• Primary contact for Automotive Ride  Drive Marketing Campaigns.
+
+Avalon Digital Marketing Systems, Inc. (European Division)	May 2000 - April 2002
+Web Developer/Junior DBA
+• Designed and developed reporting system for use by 200+ customers to retrieve analytical analysis of their bulk mail campaigns.
+• Designed  developed sales reporting tool to analyze and present information about industry and client specific productivity of email marketing campaigns.
+• Engineered various email campaigns to provide comprehensive tracking.
+• Primary contact for Automotive Ride  Drive Marketing Campaigns.
+• Designed  developed time keeping/project tracking system for use by all employees.
+• Junior DBA SQL Server 7/2000.
+
+Technical: Languages: ASP, HTML, VBScript, JavaScript, VB, XML, PHP
+Databases: SQL Server 6.5/7/2000, Oracle 9i, Access 97/2000
+Operating Systems: Windows 98/2000/NT/XP/2003, UNIX, DOS
+
+Education: California State University, Chico, CA	1996 - 1999
+B.S. Business Administration
+MINOR: American History
+GPA: 3.66/4.0
+
+Butte College, A.A.	1995 - 1996
+
+Training
+• Project Management Professional, Project Management Institute, 2005
+• Microsoft Visual Basic .NET, 2001
+• Microsoft SQL Server Administration, 2000
+
+Languages
+Fluent in Pashto, Urdu and French.
+
+Professional Affiliations
+Member of the Association of Retired Military Document Examiners
+
+Awards
+Awarded Medal of Merit by the Royal Society of Forensics, 2005
+
+Certifications  Licenses
+• September, 2001: Sun Secure Global Desktop (Tarantella) System Administration
+• Watergate Master Plumber, Lic. #2445
+
+Patents
+George Doam and Neil Griffin, inventors, "Method and Apparatus for Removing Corn Kernels From Dentures", Patent 1,064,098.
+
+Speaking Engagements
+Main Speaker, AYA Forum, 2006
+
+Publications
+"The Way Home: How GPS Restored My Profits and Saved My Business Life", published in the American Journal of the Lost And Clueless, Volume 1, Number 4. May 3, 2001
+
+Military Service
+FIRST LIEUTENANT, US Army, Vietnam theatre, 1966-1967
+
+Security Clearances
+Top Secret, expires 2007
+
+References
+Babs Smith
+Manager, Somers Products, Inc.
+1234 Farmington Way
+Richmond, VA 46559
+845-876-0988
+babs@somers.com
+
+Personal Information
+                               
+                               
+               
+                                   
+            
+Married: Yes
+                             
+Current Location: Solana Beach, CA
+Preferred Location: Boston, MA
+                        
+Family: Wife and 2 children
+                             
+                                   
+Visa: None
+Passport Number: US-456456456
+                        
+                         </TextResume>
+  </NonXMLResume>
+  <UserArea>
+    <sov:ResumeUserArea>
+      <sov:Culture>
+        <sov:Language>en</sov:Language>
+        <sov:Country>US</sov:Country>
+        <sov:CultureInfo>en-US</sov:CultureInfo>
+      </sov:Culture>
+      <sov:ExperienceSummary>
+        <sov:Description>John F. Adams's experience appears to be concentrated in Information Technology / Database, with exposure to Sales / General. John F. Adams has 13 years of work experience, with 9 years of management experience, including a mid-level position.</sov:Description>
+        <sov:MonthsOfWorkExperience>158</sov:MonthsOfWorkExperience>
+        <sov:YearsOfWorkExperience>13</sov:YearsOfWorkExperience>
+        <sov:MonthsOfManagementExperience>104</sov:MonthsOfManagementExperience>
+        <sov:YearsOfManagementExperience>9</sov:YearsOfManagementExperience>
+        <sov:CurrentManagementLevel>mid-level</sov:CurrentManagementLevel>
+        <sov:HighestManagementScore>55</sov:HighestManagementScore>
+        <sov:ExecutiveType>business_dev</sov:ExecutiveType>
+        <sov:ManagementStory>The following management-related items were found:
+• Supervised 15 employees.
+
+Current position is a mid-level management role: Director of Web Applications Development
+Starting on 10/1/2004, the candidate held the following mid-level management position for 8 years and 8 months:
+	Title: Director of Web Applications Development for Technical Difference</sov:ManagementStory>
+        <sov:BestFitTaxonomies>
+          <sov:BestFitTaxonomy id="10" rootId="Sovren" name="Information Technology" weight="1755.43" percentOfOverall="34.36" percentOfParent="34.36">
+            <sov:BestFitTaxonomy id="193" rootId="Sovren" name="Database" weight="568.77" percentOfOverall="11.13" percentOfParent="32.40"/>
+            <sov:BestFitTaxonomy id="196" rootId="Sovren" name="Internet" weight="499.26" percentOfOverall="9.77" percentOfParent="28.44"/>
+          </sov:BestFitTaxonomy>
+          <sov:BestFitTaxonomy id="20" rootId="Sovren" name="Sales" weight="1263.47" percentOfOverall="24.73" percentOfParent="24.73">
+            <sov:BestFitTaxonomy id="105" rootId="Sovren" name="General" weight="1263.47" percentOfOverall="24.73" percentOfParent="100.00"/>
+          </sov:BestFitTaxonomy>
+        </sov:BestFitTaxonomies>
+      </sov:ExperienceSummary>
+      <sov:Sections>
+        <sov:Section starts="21" ends="22" sectionType="SUMMARY">Summary</sov:Section>
+        <sov:Section starts="23" ends="24" sectionType="OBJECTIVE">Objective</sov:Section>
+        <sov:Section starts="25" ends="68" sectionType="WORK HISTORY">Experience</sov:Section>
+        <sov:Section starts="69" ends="75" sectionType="EDUCATION">Education</sov:Section>
+        <sov:Section starts="76" ends="80" sectionType="TRAINING">Training</sov:Section>
+        <sov:Section starts="81" ends="83" sectionType="LANGUAGES">Languages</sov:Section>
+        <sov:Section starts="84" ends="86" sectionType="PROFESSIONAL AFFILIATIONS">Professional Affiliations</sov:Section>
+        <sov:Section starts="87" ends="89" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">Awards</sov:Section>
+        <sov:Section starts="90" ends="93" sectionType="LICENSES">Certifications  Licenses</sov:Section>
+        <sov:Section starts="94" ends="96" sectionType="PATENTS">Patents</sov:Section>
+        <sov:Section starts="97" ends="99" sectionType="SPEAKING">Speaking Engagements</sov:Section>
+        <sov:Section starts="100" ends="102" sectionType="OTHER_PUBLICATIONS">Publications</sov:Section>
+        <sov:Section starts="103" ends="105" sectionType="MILITARY">Military Service</sov:Section>
+        <sov:Section starts="106" ends="108" sectionType="SECURITY_CLEARANCES">Security Clearances</sov:Section>
+        <sov:Section starts="109" ends="116" sectionType="REFERENCES">References</sov:Section>
+        <sov:Section starts="117" ends="134" sectionType="CONTACT INFO">Personal Information</sov:Section>
+      </sov:Sections>
+      <sov:CoverLetterText>Dear Sir or Madam,
+
+I am very interested in the Director of Development position that you posted. I am eager to move to New York. I have extensive hands-on experience with the technologies your staff is using and I have been managing a similar size staff for the past 5 years.
+
+Sincerely,</sov:CoverLetterText>
+      <sov:ParsedTextLength>6402</sov:ParsedTextLength>
+      <sov:ParseTime>344</sov:ParseTime>
+      <sov:ParserConfigurationString>_100000_0_00000001_1101010000101100_1_000000000000011111110200000000001000010000000000</sov:ParserConfigurationString>
+      <sov:ParserVersion>7.1.7100.7</sov:ParserVersion>
+    </sov:ResumeUserArea>
+  </UserArea>
+  <!--  Parser Version: 7.1.7100.7  -->
+</Resume>

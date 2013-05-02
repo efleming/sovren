@@ -1,0 +1,81 @@
+<EducationHistory>
+  <SchoolOrInstitution schoolType="university">
+    <School>
+      <SchoolName>California State University</SchoolName>
+    </School>
+    <PostalAddress type="undefined">
+      <CountryCode>US</CountryCode>
+      <Region>CA</Region>
+      <Municipality>Chico</Municipality>
+    </PostalAddress>
+    <Degree degreeType="bachelors">
+      <DegreeName>B.S.</DegreeName>
+      <DegreeDate>
+        <AnyDate>1999-01-01</AnyDate>
+      </DegreeDate>
+      <DegreeMajor>
+        <Name>Business Administration</Name>
+      </DegreeMajor>
+      <DegreeMinor>
+        <Name>American History</Name>
+      </DegreeMinor>
+      <DegreeMeasure>
+        <EducationalMeasure>
+          <MeasureSystem>GPA</MeasureSystem>
+          <MeasureValue>
+            <StringValue>3.66</StringValue>
+          </MeasureValue>
+          <LowestPossibleValue>
+            <StringValue>0</StringValue>
+          </LowestPossibleValue>
+          <HighestPossibleValue>
+            <StringValue>4.0</StringValue>
+          </HighestPossibleValue>
+        </EducationalMeasure>
+      </DegreeMeasure>
+      <DatesOfAttendance>
+        <StartDate>
+          <AnyDate>1996-01-01</AnyDate>
+        </StartDate>
+        <EndDate>
+          <AnyDate>1999-01-01</AnyDate>
+        </EndDate>
+      </DatesOfAttendance>
+      <Comments>California State University, Chico, CA	1996 - 1999
+B.S. Business Administration
+MINOR: American History
+GPA: 3.66/4.0</Comments>
+      <UserArea>
+        <sov:DegreeUserArea>
+          <sov:Id>DEG-1</sov:Id>
+          <sov:NormalizedGPA>0.915</sov:NormalizedGPA>
+        </sov:DegreeUserArea>
+      </UserArea>
+    </Degree>
+  </SchoolOrInstitution>
+  <SchoolOrInstitution schoolType="college">
+    <School>
+      <SchoolName>Butte College</SchoolName>
+    </School>
+    <Degree degreeType="associates">
+      <DegreeName>A.A.</DegreeName>
+      <DegreeDate>
+        <AnyDate>1996-01-01</AnyDate>
+      </DegreeDate>
+      <DatesOfAttendance>
+        <StartDate>
+          <AnyDate>1995-01-01</AnyDate>
+        </StartDate>
+        <EndDate>
+          <AnyDate>1996-01-01</AnyDate>
+        </EndDate>
+      </DatesOfAttendance>
+      <Comments>Butte College, A.A.	1995 - 1996</Comments>
+      <UserArea>
+        <sov:DegreeUserArea>
+          <sov:Id>DEG-2</sov:Id>
+        </sov:DegreeUserArea>
+      </UserArea>
+    </Degree>
+  </SchoolOrInstitution>
+</EducationHistory>

@@ -1,0 +1,8 @@
+<Associations>
+  <Association>
+    <Name>Association of Retired Military Document Examiners</Name>
+    <Role>
+      <Name>Member</Name>
+    </Role>
+  </Association>
+</Associations>

@@ -1,0 +1,179 @@
+<EmploymentHistory>
+  <EmployerOrg>
+    <EmployerOrgName>Technical Difference</EmployerOrgName>
+    <PositionHistory positionType="directHire" currentEmployer="true">
+      <Title>Director of Web Applications Development</Title>
+      <OrgName>
+        <OrganizationName>Technical Difference</OrganizationName>
+      </OrgName>
+      <OrgInfo>
+        <PositionLocation type="undefined">
+          <CountryCode>US</CountryCode>
+          <Region>CA</Region>
+          <Municipality>Encinitas</Municipality>
+        </PositionLocation>
+      </OrgInfo>
+      <Description>Technical Difference, Encinitas, CA	October 2004 - Current
+Director of Web Applications Development
+• Managed email marketing campaigns to attract new sales and retain customers.
+• Add new technology to website to manage leads, increase response time and provide pertinent information to new customers.
+• Convert current HRIS from VB to ASP to create complete web based solution.
+• Added custom encryption coding to SQL and ASP web applications.
+• Designed custom applicant tracking ASP program for large client.
+• Designed customer support application to receive requests/files from clients, divert to appropriate support staff, and track issue from open to resolve.
+• Supervised 15 employees.</Description>
+      <StartDate>
+        <AnyDate>2004-10-01</AnyDate>
+      </StartDate>
+      <EndDate>
+        <AnyDate>2013-04-29</AnyDate>
+      </EndDate>
+      <JobCategory>
+        <TaxonomyName>DEPARTMENT</TaxonomyName>
+        <CategoryCode>196</CategoryCode>
+      </JobCategory>
+      <JobCategory>
+        <TaxonomyName>JOBCATEGORY</TaxonomyName>
+        <CategoryCode>Executive (VP, Dept Head)</CategoryCode>
+      </JobCategory>
+      <UserArea>
+        <sov:PositionHistoryUserArea>
+          <sov:Id>POS-1</sov:Id>
+          <sov:CompanyNameProbability>27</sov:CompanyNameProbability>
+          <sov:PositionTitleProbability>34</sov:PositionTitleProbability>
+          <sov:OffsetOfFarthestDataFound>98</sov:OffsetOfFarthestDataFound>
+          <sov:NumberOfEmployeesSupervised>15</sov:NumberOfEmployeesSupervised>
+        </sov:PositionHistoryUserArea>
+      </UserArea>
+    </PositionHistory>
+  </EmployerOrg>
+  <EmployerOrg>
+    <EmployerOrgName>Convergence Inc. LLC</EmployerOrgName>
+    <PositionHistory positionType="directHire">
+      <Title>Senior Web Developer/DBA</Title>
+      <OrgName>
+        <OrganizationName>Convergence Inc. LLC</OrganizationName>
+      </OrgName>
+      <OrgInfo>
+        <PositionLocation type="undefined">
+          <CountryCode>US</CountryCode>
+          <Region>CA</Region>
+          <Municipality>Del Mar</Municipality>
+        </PositionLocation>
+      </OrgInfo>
+      <Description>Convergence Inc. LLC, Del Mar, CA	March 2003 - December 2004
+Senior Web Developer/DBA
+• Developed special package sales on website for the Mighty Ducks of Anaheim.
+• Managed email marketing campaigns for Mighty Ducks of Anaheim to generate interest in season passes, group sales, and special promotions.
+• Developed event registration sites for Mazda, Mercedes, Volvo, Cadillac  Mitsubishi.
+• Developed web-based email tracking system for bulk mail sends to track all consumer actions upon opening an email sent from the system.
+• Developed analytical reporting tool for clients to access results of bulk mail sends.
+• Set up/deployed bulk mail campaigns for various companies through Exact Target.
+• Consulted with clients about bulk mail results to help find their target audience.
+• Helped customers to build their email database through various bulk mail promotions.
+• Developed web-based contest applications for various seasonal marketing campaigns that included Email Marketing, Web Registration, Email Tracking, and Contest Reporting for the State of Connecticut Tourism Department.
+• Developed Meeting Planner marketing tool for customers to plan/book meetings at any of over 200 hotels in Connecticut for the Connecticut Tourism Department.
+• Primary contact for Automotive Ride  Drive Marketing Campaigns.
+• DBA SQL Server 7  2000.</Description>
+      <StartDate>
+        <AnyDate>2003-03-01</AnyDate>
+      </StartDate>
+      <EndDate>
+        <AnyDate>2004-12-01</AnyDate>
+      </EndDate>
+      <JobCategory>
+        <TaxonomyName>DEPARTMENT</TaxonomyName>
+        <CategoryCode>193</CategoryCode>
+      </JobCategory>
+      <JobCategory>
+        <TaxonomyName>JOBCATEGORY</TaxonomyName>
+        <CategoryCode>Experienced (non-manager)</CategoryCode>
+      </JobCategory>
+      <UserArea>
+        <sov:PositionHistoryUserArea>
+          <sov:Id>POS-2</sov:Id>
+          <sov:CompanyNameProbability>28</sov:CompanyNameProbability>
+          <sov:PositionTitleProbability>28</sov:PositionTitleProbability>
+          <sov:OffsetOfFarthestDataFound>84</sov:OffsetOfFarthestDataFound>
+        </sov:PositionHistoryUserArea>
+      </UserArea>
+    </PositionHistory>
+  </EmployerOrg>
+  <EmployerOrg>
+    <EmployerOrgName>Avalon Digital Marketing Systems, Inc</EmployerOrgName>
+    <PositionHistory positionType="contract">
+      <Title>Contractor - Web Development</Title>
+      <OrgName>
+        <OrganizationName>Avalon Digital Marketing Systems, Inc</OrganizationName>
+      </OrgName>
+      <Description>Avalon Digital Marketing Systems, Inc.	May 2002 - March 2003
+Contractor - Web Development
+• Designed  developed web-based gift fulfillment system for use by Mazda and their affiliates to intake consumer information from bulk mail sends, accept orders from consumers who completed their incentive program, and to report on all activity.
+• Designed  developed web-based event registration systems for Mercedes and Volvo including comprehensive reporting on system activity.
+• Primary contact for Automotive Ride  Drive Marketing Campaigns.</Description>
+      <StartDate>
+        <AnyDate>2002-05-01</AnyDate>
+      </StartDate>
+      <EndDate>
+        <AnyDate>2003-03-01</AnyDate>
+      </EndDate>
+      <JobCategory>
+        <TaxonomyName>DEPARTMENT</TaxonomyName>
+        <CategoryCode>460</CategoryCode>
+      </JobCategory>
+      <JobCategory>
+        <TaxonomyName>JOBCATEGORY</TaxonomyName>
+        <CategoryCode>Experienced (non-manager)</CategoryCode>
+      </JobCategory>
+      <UserArea>
+        <sov:PositionHistoryUserArea>
+          <sov:Id>POS-3</sov:Id>
+          <sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+          <sov:PositionTitleProbability>22</sov:PositionTitleProbability>
+          <sov:OffsetOfFarthestDataFound>88</sov:OffsetOfFarthestDataFound>
+        </sov:PositionHistoryUserArea>
+      </UserArea>
+    </PositionHistory>
+  </EmployerOrg>
+  <EmployerOrg>
+    <EmployerOrgName>Avalon Digital Marketing Systems, Inc</EmployerOrgName>
+    <PositionHistory positionType="directHire">
+      <Title>Web Developer/Junior DBA</Title>
+      <OrgName>
+        <OrganizationName>European Division</OrganizationName>
+      </OrgName>
+      <Description>Avalon Digital Marketing Systems, Inc. (European Division)	May 2000 - April 2002
+Web Developer/Junior DBA
+• Designed and developed reporting system for use by 200+ customers to retrieve analytical analysis of their bulk mail campaigns.
+• Designed  developed sales reporting tool to analyze and present information about industry and client specific productivity of email marketing campaigns.
+• Engineered various email campaigns to provide comprehensive tracking.
+• Primary contact for Automotive Ride  Drive Marketing Campaigns.
+• Designed  developed time keeping/project tracking system for use by all employees.
+• Junior DBA SQL Server 7/2000.
+
+Technical:</Description>
+      <StartDate>
+        <AnyDate>2000-05-01</AnyDate>
+      </StartDate>
+      <EndDate>
+        <AnyDate>2002-04-01</AnyDate>
+      </EndDate>
+      <JobCategory>
+        <TaxonomyName>DEPARTMENT</TaxonomyName>
+        <CategoryCode>193</CategoryCode>
+      </JobCategory>
+      <JobCategory>
+        <TaxonomyName>JOBCATEGORY</TaxonomyName>
+        <CategoryCode>Entry Level</CategoryCode>
+      </JobCategory>
+      <UserArea>
+        <sov:PositionHistoryUserArea>
+          <sov:Id>POS-4</sov:Id>
+          <sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+          <sov:PositionTitleProbability>22</sov:PositionTitleProbability>
+          <sov:OffsetOfFarthestDataFound>104</sov:OffsetOfFarthestDataFound>
+        </sov:PositionHistoryUserArea>
+      </UserArea>
+    </PositionHistory>
+  </EmployerOrg>
+</EmploymentHistory>

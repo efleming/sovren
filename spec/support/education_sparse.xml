@@ -1,0 +1,10 @@
+<EducationHistory>
+  <SchoolOrInstitution schoolType="university">
+    <School>
+      <SchoolName>California State University</SchoolName>
+    </School>
+    <Degree degreeType="bachelors">
+      <DegreeName>B.S.</DegreeName>
+    </Degree>
+  </SchoolOrInstitution>
+</EducationHistory>

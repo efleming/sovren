@@ -1,0 +1,23 @@
+<Languages>
+  <Language>
+    <LanguageCode>ps</LanguageCode>
+    <Read>true</Read>
+    <Write>true</Write>
+    <Speak>true</Speak>
+    <Comments>Fluent in Pashto, Urdu and</Comments>
+  </Language>
+  <Language>
+    <LanguageCode>ur</LanguageCode>
+    <Read>true</Read>
+    <Write>true</Write>
+    <Speak>true</Speak>
+    <Comments>Fluent in Pashto, Urdu and French.</Comments>
+  </Language>
+  <Language>
+    <LanguageCode>fr</LanguageCode>
+    <Read>true</Read>
+    <Write>true</Write>
+    <Speak>true</Speak>
+    <Comments>Pashto, Urdu and French.</Comments>
+  </Language>
+</Languages>

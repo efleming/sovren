@@ -1,0 +1,11 @@
+<EmploymentHistory>
+  <EmployerOrg>
+    <EmployerOrgName>Technical Difference</EmployerOrgName>
+    <PositionHistory positionType="directHire">
+      <Title>Director of Web Applications Development</Title>
+      <OrgName>
+        <OrganizationName>Technical Difference</OrganizationName>
+      </OrgName>
+    </PositionHistory>
+  </EmployerOrg>
+</EmploymentHistory>
