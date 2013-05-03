@@ -3,7 +3,7 @@ module Sovren
     attr_accessor :first_name, :middle_name, :last_name, :aristocratic_title, :form_of_address, :generation, :qualification, :address_line_1, :address_line_2, :city, :state, :country, :postal_code, :home_phone, :mobile_phone, :email, :website
 
     def self.parse(contact_information)
-      return nil if contact_information.nil?
+      return Array.new if contact_information.nil?
       result = self.new
       result.first_name = contact_information.css('PersonName GivenName').collect(&:text).join(" ")
       result.middle_name = contact_information.css('PersonName MiddleName').collect(&:text).join(" ")

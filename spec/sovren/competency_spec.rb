@@ -19,7 +19,7 @@ describe Sovren::Competency do
     context "no competencies" do
       When(:result) { Sovren::Competency.parse(nil) }
 
-      Then { result == nil }
+      Then { result == Array.new }
     end
   end
 

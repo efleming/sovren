@@ -3,7 +3,7 @@ module Sovren
     attr_accessor :description
 
     def self.parse(achievements)
-      return nil if achievements.nil?
+      return Array.new if achievements.nil?
       result = achievements.css('Achievement').collect do |item|
         c = Achievement.new
         c.description = item.css('Description').text

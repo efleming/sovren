@@ -3,7 +3,7 @@ module Sovren
     attr_accessor :title, :description, :inventor_name, :patent_id
 
     def self.parse(patents)
-      return nil if patents.nil?
+      return Array.new if patents.nil?
       result = patents.css('Patent').collect do |item|
         c = Patent.new
         c.title = item.css('PatentTitle').text

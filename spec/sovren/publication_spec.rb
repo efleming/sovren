@@ -63,7 +63,7 @@ describe Sovren::Publication do
     context "no publications" do
       When(:result) { Sovren::Publication.parse(nil) }
 
-      Then { result == nil }
+      Then { result == Array.new }
     end
   end
 

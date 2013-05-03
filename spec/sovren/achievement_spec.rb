@@ -17,7 +17,7 @@ describe Sovren::Achievement do
     context "no achievements" do
       When(:result) { Sovren::Achievement.parse(nil) }
 
-      Then { result == nil }
+      Then { result == Array.new }
     end
   end
 

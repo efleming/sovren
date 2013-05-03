@@ -19,7 +19,7 @@ describe Sovren::Certification do
     context "no competencies" do
       When(:result) { Sovren::Certification.parse(nil) }
 
-      Then { result == nil }
+      Then { result == Array.new }
     end
   end
 

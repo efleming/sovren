@@ -18,7 +18,7 @@ describe Sovren::Association do
     context "no associations" do
       When(:result) { Sovren::Association.parse(nil) }
 
-      Then { result == nil }
+      Then { result == Array.new }
     end
   end
 

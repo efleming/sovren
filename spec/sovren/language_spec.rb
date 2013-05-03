@@ -20,7 +20,7 @@ describe Sovren::Language do
     context "no languages" do
       When(:result) { Sovren::Language.parse(nil) }
 
-      Then { result == nil }
+      Then { result == Array.new }
     end
   end
 

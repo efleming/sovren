@@ -3,7 +3,7 @@ module Sovren
     attr_accessor :employer, :division, :city, :state, :country, :title, :description, :start_date, :end_date, :current_employer
     
     def self.parse(employment_history)
-      return nil if employment_history.nil?
+      return Array.new if employment_history.nil?
       result = employment_history.css('EmployerOrg').collect do |item|
         position = item.css('PositionHistory').first
         e = Employment.new

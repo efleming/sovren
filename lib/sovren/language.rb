@@ -3,7 +3,7 @@ module Sovren
     attr_accessor :language_code, :read, :write, :speak
 
     def self.parse(languages)
-      return nil if languages.nil?
+      return Array.new if languages.nil?
       result = languages.css('Language').collect do |item|
         c = Language.new
         c.language_code = item.css('LanguageCode').text

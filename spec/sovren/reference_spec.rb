@@ -27,7 +27,7 @@ describe Sovren::Reference do
     context "no references" do
       When(:result) { Sovren::Reference.parse(nil) }
 
-      Then { result == nil }
+      Then { result == Array.new }
     end
   end
 

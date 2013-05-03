@@ -3,7 +3,7 @@ module Sovren
     attr_accessor :name, :title, :email, :phone_number
 
     def self.parse(references)
-      return nil if references.nil?
+      return Array.new if references.nil?
       result = references.css('Reference').collect do |item|
         r = Reference.new
         r.name = item.css('PersonName FormattedName').text

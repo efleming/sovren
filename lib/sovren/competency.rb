@@ -3,7 +3,7 @@ module Sovren
     attr_accessor :name, :months, :last_used_date
 
     def self.parse(competencies)
-      return nil if competencies.nil?
+      return Array.new if competencies.nil?
       results = competencies.css('Competency').collect do |item|
         c = Competency.new
         c.name = item['name']

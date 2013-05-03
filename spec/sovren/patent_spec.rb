@@ -20,7 +20,7 @@ describe Sovren::Patent do
     context "no patents" do
       When(:result) { Sovren::Patent.parse(nil) }
 
-      Then { result == nil }
+      Then { result == Array.new }
     end
   end
 

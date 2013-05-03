@@ -3,7 +3,7 @@ module Sovren
     attr_accessor :school_name, :city, :state, :country, :degree_name, :degree_type, :major, :minor, :gpa, :gpa_out_of, :start_date, :end_date, :graduated
     
     def self.parse(education_history)
-      return nil if education_history.nil?
+      return Array.new if education_history.nil?
       result = education_history.css('SchoolOrInstitution').collect do |item|
         e = Education.new
         e.school_name = item.css('SchoolName').text

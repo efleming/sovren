@@ -3,7 +3,7 @@ module Sovren
     attr_accessor :name, :description, :effective_date
 
     def self.parse(certifications)
-      return nil if certifications.nil?
+      return Array.new if certifications.nil?
       result = certifications.css('LicenseOrCertification').collect do |item|
         c = Certification.new
         c.name = item.css('Name').text
