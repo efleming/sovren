@@ -3,7 +3,7 @@ module Sovren
     attr_accessor :country_served, :branch, :rank_achieved, :recognition_achieved, :discharge_status, :start_date, :end_date
 
     def self.parse(military_history)
-      return Array.new if military_history.nil?
+      return nil if military_history.nil?
       e = Military.new
       e.country_served = military_history.css('CountryServed').text
       e.branch = military_history.css('ServiceDetail').first['branch']
