@@ -66,7 +66,7 @@ describe Sovren::ContactInformation do
     context "no contact info" do
       When(:result) { Sovren::ContactInformation.parse(nil) }
 
-      Then { result == Array.new }
+      Then { result == nil }
     end  
   end
 

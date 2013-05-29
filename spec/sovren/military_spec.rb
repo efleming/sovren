@@ -22,7 +22,7 @@ describe Sovren::Military do
     context "no military history" do
       When(:result) { Sovren::Military.parse(nil) }
 
-      Then { result == Array.new }
+      Then { result == nil }
     end
   end
 
