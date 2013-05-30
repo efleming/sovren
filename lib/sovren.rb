@@ -1,6 +1,5 @@
-require "pry"
+Bundler.require(:default,ENV["SOVREN_ENV"]) if defined?(Bundler)
 require "sovren/version"
-require "savon"
 
 module Sovren
   class << self
