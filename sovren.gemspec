@@ -25,6 +25,11 @@ Gem::Specification.new do |spec|
   spec.add_dependency "nokogiri", "~> 1.5.9"
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
+  spec.add_development_dependency "pry"
+  spec.add_development_dependency "rspec"
+  spec.add_development_dependency "rspec-given"
+  spec.add_development_dependency "vcr"
+  spec.add_development_dependency "webmock", '< 1.10'
 
   spec.requirements << "Access to a sovren resume parser server."
 end
