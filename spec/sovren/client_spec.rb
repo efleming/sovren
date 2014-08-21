@@ -25,4 +25,19 @@ describe Sovren::Client do
       Then { result.class.should == Sovren::Resume }
     end
   end
+
+  describe 'converting' do
+    Given(:sovren_client) { Sovren::Client.new(endpoint: "http://www.foo.com/") }
+    Given(:resume) { File.read(File.expand_path(File.dirname(__FILE__) + '/../support/ResumeSample.doc')) }
+
+    context ".convert", vcr: {cassette_name: 'converted_resume'} do 
+      When(:result) { sovren_client.convert(resume, "PLAIN_TEXT") }
+      Then { result.class.should == String }
+    end
+
+    context ".convert", vcr: {cassette_name: 'converted_resume'} do 
+      When(:result) { sovren_client.convert(resume, "HTML_FORMATTED") }
+      Then { result.class.should == String }
+    end
+  end
 end

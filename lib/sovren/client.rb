@@ -41,5 +41,14 @@ module Sovren
       Resume.parse(result.body[:parse_response][:parse_result])
     end
 
+    def convert(file, format)
+      result = connection.call(:do_conversion_simplified) do |c|
+        c.message({
+          "DocumentAsByteArray" => Base64.encode64(file),
+          "OutputType" => format})
+      end
+
+      result.body[:do_conversion_simplified_response][:do_conversion_simplified_result].to_s
+    end
   end
 end
