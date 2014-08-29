@@ -4,8 +4,6 @@ module Sovren
 
     #Initialize the client class that will be used for all sovren requests.
     #
-    #Certain requests will require an oauth token.  See http://developer.foursquare.com/docs/index_docs.html for the full list.
-    #
     # @param [Hash] options
     # @option options String :endpoint The url that the web service is located at
     # @option options String :username The HTTP Basic auth username for the webservice
