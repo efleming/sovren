@@ -36,7 +36,7 @@ module Sovren
         })
       end
 
-      Resume.parse(result.body[:parse_resume_response][:parse_resume_result])
+      Resume.parse(result.body[:parse_resume_response][:parse_resume_result][:xml])
     end
   end
 end
