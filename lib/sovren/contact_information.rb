@@ -24,7 +24,7 @@ module Sovren
       result.home_phone = contact_information.css('Telephone FormattedNumber').first.text rescue nil
       result.mobile_phone = contact_information.css('Mobile FormattedNumber').first.text rescue nil
 
-      result.website = contact_information.css('InternetWebAddress').first.text rescue nil
+      result.website = contact_information.css('InternetWebAddress').map { |w| w.text } rescue nil
       result.email = contact_information.css('InternetEmailAddress').first.text rescue nil
 
       result

@@ -48,7 +48,7 @@ describe Sovren::ContactInformation do
       Then { result.home_phone == "(858) 555-1000" }
       Then { result.mobile_phone == "(858) 555-1001" }
 
-      Then { result.website == "http://www.linkedin.com/in/johnadams" }
+      Then { result.website == ["http://www.linkedin.com/in/johnadams"] }
       Then { result.email == "johnadams@yamoo.com" }
     end  
     
