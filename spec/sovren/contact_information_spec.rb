@@ -21,7 +21,7 @@ describe Sovren::ContactInformation do
   Then { contact_information.should respond_to :mobile_phone }
 
   Then { contact_information.should respond_to :email }
-  Then { contact_information.should respond_to :website }
+  Then { contact_information.should respond_to :websites }
 
   context ".parse" do
     context "a full resume" do
@@ -48,7 +48,7 @@ describe Sovren::ContactInformation do
       Then { result.home_phone == "(858) 555-1000" }
       Then { result.mobile_phone == "(858) 555-1001" }
 
-      Then { result.website == ["http://www.linkedin.com/in/johnadams"] }
+      Then { result.websites == ["http://www.linkedin.com/in/johnadams"] }
       Then { result.email == "johnadams@yamoo.com" }
     end  
     
