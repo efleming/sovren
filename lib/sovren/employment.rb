@@ -10,7 +10,9 @@ module Sovren
         e.employer = item.css('EmployerOrgName').text
         e.division = position.css('OrganizationName').text
         e.division = nil if e.employer == e.division
-        e.city, e.state, e.country = item.css('PositionLocation Municipality, PositionLocation Region, PositionLocation CountryCode').collect(&:text)
+        e.city = item.css('PositionLocation Municipality').text
+        e.state = item.css('PositionLocation Region').text
+        e.country = item.css('PositionLocation CountryCode').text
         e.title = position.css('Title').text
         e.description = position.css('Description').text
         e.start_date = Date.parse(position.css('StartDate').text) rescue nil
