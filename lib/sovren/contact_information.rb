@@ -1,6 +1,6 @@
 module Sovren
   class ContactInformation
-    attr_accessor :first_name, :middle_name, :last_name, :aristocratic_title, :form_of_address, :generation, :qualification, :address_line_1, :address_line_2, :city, :state, :country, :postal_code, :home_phone, :mobile_phone, :email, :website
+    attr_accessor :first_name, :middle_name, :last_name, :aristocratic_title, :form_of_address, :generation, :qualification, :address_line_1, :address_line_2, :city, :state, :country, :postal_code, :home_phone, :mobile_phone, :email, :websites
 
     def self.parse(contact_information)
       return nil if contact_information.nil?
@@ -24,7 +24,7 @@ module Sovren
       result.home_phone = contact_information.css('Telephone FormattedNumber').first.text rescue nil
       result.mobile_phone = contact_information.css('Mobile FormattedNumber').first.text rescue nil
 
-      result.website = contact_information.css('InternetWebAddress').first.text rescue nil
+      result.websites = contact_information.css('InternetWebAddress').map { |w| w.text } rescue nil
       result.email = contact_information.css('InternetEmailAddress').first.text rescue nil
 
       result
