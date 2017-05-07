@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe Sovren::Client do
-  Given(:sovren_client) { Sovren::Client.new(endpoint: "foo1", username: "foo2", password: "foo3") }
+  Given(:sovren_client) { Sovren::Client.new(endpoint: "foo1", account_id: "foo2", service_key: "foo3") }
 
   context 'init' do
     Then { sovren_client.should_not be_nil }
@@ -10,10 +10,10 @@ describe Sovren::Client do
   context '.config' do
     Then { sovren_client.should respond_to :endpoint }
     Then { sovren_client.endpoint == "foo1" }
-    Then { sovren_client.should respond_to :username }
-    Then { sovren_client.username == "foo2" }
-    Then { sovren_client.should respond_to :password }
-    Then { sovren_client.password == "foo3" }
+    Then { sovren_client.should respond_to :account_id }
+    Then { sovren_client.account_id == "foo2" }
+    Then { sovren_client.should respond_to :service_key }
+    Then { sovren_client.service_key == "foo3" }
   end
 
   describe 'parsing' do
@@ -26,18 +26,4 @@ describe Sovren::Client do
     end
   end
 
-  describe 'converting' do
-    Given(:sovren_client) { Sovren::Client.new(endpoint: "http://www.foo.com/") }
-    Given(:resume) { File.read(File.expand_path(File.dirname(__FILE__) + '/../support/ResumeSample.doc')) }
-
-    context ".convert", vcr: {cassette_name: 'converted_resume'} do 
-      When(:result) { sovren_client.convert(resume, "PLAIN_TEXT") }
-      Then { result.class.should == String }
-    end
-
-    context ".convert", vcr: {cassette_name: 'converted_resume'} do 
-      When(:result) { sovren_client.convert(resume, "HTML_FORMATTED") }
-      Then { result.class.should == String }
-    end
-  end
 end
