@@ -6,8 +6,10 @@ module Sovren
       return Array.new if education_history.nil?
       result = education_history.css('SchoolOrInstitution').collect do |item|
         e = Education.new
-        e.school_name = item.css('SchoolName').text
-        e.city, e.state, e.country = item.css('PostalAddress Municipality, PostalAddress Region, PostalAddress CountryCode').collect(&:text)
+        e.school_name = item.css('SchoolName').text        
+        e.city = item.css('PostalAddress Municipality').text
+        e.state = item.css('PostalAddress Region').text
+        e.country = item.css('PostalAddress CountryCode').text        
         e.degree_type = item.css('Degree').first['degreeType']
         e.degree_name = item.css('Degree DegreeName').text
         e.major = item.css('DegreeMajor Name').text

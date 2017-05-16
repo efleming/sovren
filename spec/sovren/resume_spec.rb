@@ -17,6 +17,7 @@ describe Sovren::Resume do
   Then { resume.should respond_to :patent_history }
   Then { resume.should respond_to :publication_history }
   Then { resume.should respond_to :references }
+  Then { resume.should respond_to :experience_summary }
 
   context '.parse' do
     use_natural_assertions
@@ -38,5 +39,6 @@ describe Sovren::Resume do
     Then { result.patent_history.length == 1 }
     Then { result.publication_history.length == 4 }
     Then { result.references.length == 1 }
+    Then { result.experience_summary.class == Sovren::ExperienceSummary }
   end
 end
